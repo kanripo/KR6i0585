@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:10.406404
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:16
 #+TITLE: 壽生經
 #+PROPERTY: CBETA_ID X01n0024
 #+PROPERTY: ID KR6i0585
